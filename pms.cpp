@@ -20,7 +20,7 @@ void dev()
        gotoxy(x,14);
        cputs("  D E V E L O P E D  B Y  :  ");
        gotoxy(x,16);
-       cputs("N A B E E L");
+       cputs("S H I K H A R");
       }
  gotoxy(x,24);
  cputs("PRESS ANY KEY TO CONTINUE");
